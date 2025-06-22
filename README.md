@@ -1,2 +1,2 @@
-# Match-Result-Prediction
-Transformer-based classification models were developed for match result prediction.
+# Maç Sonucu Tahmin Modeli
+*Maçkolikten çektiğimiz veriler üzerinde maç sonucunu (Galibiyet/Beraberlik/Mağlubiyet) sınıflandıran beş adet transformatör modeli geliştirdim.*
